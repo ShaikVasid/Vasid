@@ -34,9 +34,6 @@ I keep the larger hands-on projects here and use the smaller repositories as ref
 | **Azure Terraform Infrastructure** | Azure networking, security, identity, environments, and reusable Terraform modules | Azure, Terraform, GitHub Actions | [View Repository](https://github.com/ShaikVasid/terraform-cloud-infrastructure) |
 | **Azure IAM / RBAC Automation** | RBAC assignment automation, least-privilege checks, scope validation, and audit reporting | Azure, Entra ID, Python | [View Repository](https://github.com/ShaikVasid/iam-automation) |
 | **Terraform Projects** | Terraform experiments and infrastructure examples | Terraform | [View Repository](https://github.com/ShaikVasid/terraform-new) |
-| **GoCasts** | Go learning exercises and small examples | Go | [View Repository](https://github.com/ShaikVasid/GoCasts) |
-| **Databricks Demo** | Small Databricks and notebook experiments | Databricks, Python | [View Repository](https://github.com/ShaikVasid/databricks-demo) |
-| **run-notebook** | Databricks notebook execution from GitHub Actions | Databricks, GitHub Actions | [View Repository](https://github.com/ShaikVasid/run-notebook) |
 
 ### ⭐ Where I would start
 
@@ -45,7 +42,7 @@ If you are reviewing this profile for a Cloud / DevOps / SRE role, I would start
 1. [**Azure Terraform Infrastructure**](https://github.com/ShaikVasid/terraform-cloud-infrastructure)
 2. [**Azure IAM / RBAC Automation**](https://github.com/ShaikVasid/iam-automation)
 
-These are the projects I am actively using to show how I approach infrastructure, security, and automation. The other repositories are supporting work, experiments, or references.
+These are the projects I am actively using to show how I approach infrastructure, security, and automation. The Terraform repository is supporting infrastructure work and examples.
 
 ---
 
