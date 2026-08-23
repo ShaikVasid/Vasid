@@ -33,7 +33,6 @@ I keep the larger hands-on projects here and use the smaller repositories as ref
 |---|---|---|---|
 | **Azure Terraform Infrastructure** | Azure networking, security, identity, environments, and reusable Terraform modules | Azure, Terraform, GitHub Actions | [View Repository](https://github.com/ShaikVasid/terraform-cloud-infrastructure) |
 | **Azure IAM / RBAC Automation** | RBAC assignment automation, least-privilege checks, scope validation, and audit reporting | Azure, Entra ID, Python | [View Repository](https://github.com/ShaikVasid/iam-automation) |
-| **Azure Databricks DevOps** | Databricks deployment and CI/CD patterns | Azure, Databricks, DevOps | [View Repository](https://github.com/ShaikVasid/Azure-Databricks-Devops) |
 | **Terraform Projects** | Terraform experiments and infrastructure examples | Terraform | [View Repository](https://github.com/ShaikVasid/terraform-new) |
 | **GoCasts** | Go learning exercises and small examples | Go | [View Repository](https://github.com/ShaikVasid/GoCasts) |
 | **Databricks Demo** | Small Databricks and notebook experiments | Databricks, Python | [View Repository](https://github.com/ShaikVasid/databricks-demo) |
@@ -41,13 +40,12 @@ I keep the larger hands-on projects here and use the smaller repositories as ref
 
 ### ⭐ Where I would start
 
-If you are reviewing this profile for a Cloud / DevOps / SRE role, I would start with these three:
+If you are reviewing this profile for a Cloud / DevOps / SRE role, I would start with these two:
 
 1. [**Azure Terraform Infrastructure**](https://github.com/ShaikVasid/terraform-cloud-infrastructure)
 2. [**Azure IAM / RBAC Automation**](https://github.com/ShaikVasid/iam-automation)
-3. [**Azure Databricks DevOps**](https://github.com/ShaikVasid/Azure-Databricks-Devops)
 
-The first two are the projects I am actively using to show how I approach infrastructure and automation. The other repositories are supporting work, experiments, or references.
+These are the projects I am actively using to show how I approach infrastructure, security, and automation. The other repositories are supporting work, experiments, or references.
 
 ---
 
