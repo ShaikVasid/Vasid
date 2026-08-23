@@ -2,48 +2,52 @@
 
 ### Cloud / DevOps / SRE Engineer
 
-I build and operate cloud infrastructure, deployment platforms, and automation that make engineering teams faster and production systems more reliable.
+I work on cloud infrastructure, automation, CI/CD, and the operational side of production systems.
 
-My experience spans **Azure, AWS, and GCP**, with a strong focus on **Infrastructure as Code, Kubernetes, CI/CD, cloud automation, IAM/security, observability, and SRE practices**.
+Most of my recent work has been around **Azure**, with experience across AWS and GCP as well. I spend a lot of time with Terraform, Kubernetes, CI/CD, identity and access, monitoring, and the scripting needed to keep infrastructure teams moving.
 
-I enjoy turning manual operational work into repeatable automation, improving deployment workflows, troubleshooting production systems, and designing infrastructure that is easier to operate at scale.
+I prefer keeping infrastructure code boring and repeatable. If something has to be done more than once, I usually look for a way to automate it.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Work On
 
-- ☁️ Design and automate cloud infrastructure across Azure, AWS, and GCP
-- 🏗️ Build reusable **Terraform** infrastructure and modules
-- ☸️ Deploy and operate **Kubernetes** and containerized workloads
-- 🔄 Build and maintain **CI/CD pipelines** with Jenkins, GitLab CI/CD, and GitHub Actions
-- 🚀 Manage GitOps deployments with **Argo CD**
-- ⚙️ Automate operational workflows using **Python, Go, Bash, Ansible, and PowerShell**
-- 🔐 Implement cloud **IAM/RBAC, access controls, and security automation**
-- 📊 Work with monitoring, observability, metrics, logging, and production reliability
-- 🔍 Build infrastructure discovery and dependency-mapping automation
-- 🛠️ Troubleshoot production issues and improve reliability through SRE practices
+- ☁️ Azure cloud infrastructure and platform operations
+- 🏗️ Terraform and Infrastructure as Code
+- ☸️ Kubernetes and containerized workloads
+- 🔄 CI/CD with GitHub Actions, Jenkins, and GitLab CI/CD
+- 🚀 GitOps and Argo CD
+- ⚙️ Python, Go, Bash, PowerShell, and Ansible automation
+- 🔐 Azure RBAC, Microsoft Entra ID, managed identities, and least privilege
+- 📊 Monitoring, observability, alerting, and production troubleshooting
+- 🔍 Infrastructure discovery and dependency mapping
+- 🛠️ SRE practices, incident response, and operational improvements
 
 ---
 
 ## 🧩 Portfolio Projects
 
-The projects in this portfolio are focused on practical Cloud / DevOps / SRE problems rather than simple tutorials.
+I keep the larger hands-on projects here and use the smaller repositories as references and learning work.
 
-| Project | Focus | Technologies | Repository |
+| Project | What it covers | Technologies | Repository |
 |---|---|---|---|
-| **Azure Terraform Infrastructure** | Reusable cloud infrastructure and Infrastructure as Code patterns | Azure, Terraform, GitHub Actions | [View Repository](https://github.com/ShaikVasid/terraform-cloud-infrastructure) |
-| **Azure IAM / RBAC Automation** | Identity, permissions, least-privilege validation, and access-management automation | Azure, Entra ID, RBAC, Python | [View Repository](https://github.com/ShaikVasid/iam-automation) |
-| **Azure Databricks DevOps** | Azure Databricks and DevOps implementation examples | Azure, Databricks, DevOps | [View Repository](https://github.com/ShaikVasid/Azure-Databricks-Devops) |
-| **Terraform Projects** | Terraform and infrastructure examples | Terraform | [View Repository](https://github.com/ShaikVasid/terraform-new) |
-| **Go Automation** | Go-based engineering and automation examples | Go | [View Repository](https://github.com/ShaikVasid/GoCasts) |
-| **Databricks Demo** | Databricks implementation examples | Databricks | [View Repository](https://github.com/ShaikVasid/databricks-demo) |
-| **Notebook Automation** | Notebook execution and automation examples | Python / Notebook tooling | [View Repository](https://github.com/ShaikVasid/run-notebook) |
+| **Azure Terraform Infrastructure** | Azure networking, security, identity, environments, and reusable Terraform modules | Azure, Terraform, GitHub Actions | [View Repository](https://github.com/ShaikVasid/terraform-cloud-infrastructure) |
+| **Azure IAM / RBAC Automation** | RBAC assignment automation, least-privilege checks, scope validation, and audit reporting | Azure, Entra ID, Python | [View Repository](https://github.com/ShaikVasid/iam-automation) |
+| **Azure Databricks DevOps** | Databricks deployment and CI/CD patterns | Azure, Databricks, DevOps | [View Repository](https://github.com/ShaikVasid/Azure-Databricks-Devops) |
+| **Terraform Projects** | Terraform experiments and infrastructure examples | Terraform | [View Repository](https://github.com/ShaikVasid/terraform-new) |
+| **GoCasts** | Go learning exercises and small examples | Go | [View Repository](https://github.com/ShaikVasid/GoCasts) |
+| **Databricks Demo** | Small Databricks and notebook experiments | Databricks, Python | [View Repository](https://github.com/ShaikVasid/databricks-demo) |
+| **run-notebook** | Databricks notebook execution from GitHub Actions | Databricks, GitHub Actions | [View Repository](https://github.com/ShaikVasid/run-notebook) |
 
-### ⭐ Recommended Starting Points
+### ⭐ Where I would start
 
-- **[Azure Terraform Infrastructure](https://github.com/ShaikVasid/terraform-cloud-infrastructure)** — IaC, Azure networking, security, identity, and environment design
-- **[Azure IAM / RBAC Automation](https://github.com/ShaikVasid/iam-automation)** — Python automation, Azure RBAC, least privilege, and security validation
-- **[Azure Databricks DevOps](https://github.com/ShaikVasid/Azure-Databricks-Devops)** — Azure, Databricks, and DevOps workflows
+If you are reviewing this profile for a Cloud / DevOps / SRE role, I would start with these three:
+
+1. [**Azure Terraform Infrastructure**](https://github.com/ShaikVasid/terraform-cloud-infrastructure)
+2. [**Azure IAM / RBAC Automation**](https://github.com/ShaikVasid/iam-automation)
+3. [**Azure Databricks DevOps**](https://github.com/ShaikVasid/Azure-Databricks-Devops)
+
+The first two are the projects I am actively using to show how I approach infrastructure and automation. The other repositories are supporting work, experiments, or references.
 
 ---
 
@@ -70,7 +74,7 @@ The projects in this portfolio are focused on practical Cloud / DevOps / SRE pro
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
 </p>
 
-**Terraform · Kubernetes · Docker · Ansible · Jenkins · Argo CD**
+**Terraform · Kubernetes · Docker · Ansible · Jenkins · Helm · Argo CD**
 
 ---
 
@@ -92,7 +96,7 @@ The projects in this portfolio are focused on practical Cloud / DevOps / SRE pro
 
 **Prometheus · Grafana · Dynatrace · Elasticsearch · Splunk · OpenTelemetry**
 
-I focus on the operational side of systems: monitoring, alerting, troubleshooting, incident response, service reliability, and reducing repetitive operational work through automation.
+I use monitoring and observability to answer practical questions: what changed, what is failing, who is affected, and what should we fix so the same issue does not keep coming back.
 
 ---
 
@@ -100,18 +104,18 @@ I focus on the operational side of systems: monitoring, alerting, troubleshootin
 
 **Python · Go · Bash · PowerShell · Ansible**
 
-I use programming and scripting primarily for infrastructure automation, cloud operations, developer tooling, CI/CD workflows, and reliability engineering.
+Mostly used for infrastructure automation, cloud operations, CI/CD tooling, troubleshooting, and small utilities that remove repetitive work.
 
 ---
 
 ## 🔐 Security & Cloud Operations
 
-- IAM / RBAC and least-privilege access patterns
-- Microsoft Entra ID and managed identity patterns
+- Azure RBAC and least-privilege access
+- Microsoft Entra ID and managed identity
 - Infrastructure security automation
 - Secrets and configuration management
 - Cloud resource discovery
-- Dependency and relationship mapping
+- Dependency mapping
 - Operational automation
 - Production troubleshooting
 
@@ -123,42 +127,38 @@ I use programming and scripting primarily for infrastructure automation, cloud o
 
 ---
 
-## 📈 Engineering Focus
+## 📈 How I Think About Infrastructure
 
 ```text
-Cloud Infrastructure
-        ↓
-Infrastructure as Code
-        ↓
-CI/CD + GitOps
-        ↓
-Containers + Kubernetes
-        ↓
-Observability + Security
-        ↓
-SRE + Production Reliability
-        ↓
-Automation + Continuous Improvement
+Understand the requirement
+          ↓
+Build the smallest useful design
+          ↓
+Automate the repeatable parts
+          ↓
+Validate before deployment
+          ↓
+Monitor what goes to production
+          ↓
+Fix the failure and improve the system
 ```
 
 ---
 
-## 🎯 What I'm Building Next
+## 🎯 Next Projects
 
-I'm expanding this portfolio around production-style engineering scenarios:
+I am continuing to add projects around:
 
-- Reusable Terraform modules
-- Azure infrastructure patterns
+- Azure platform infrastructure
 - Kubernetes platform automation
 - GitOps deployment workflows
-- IAM / RBAC and security automation
-- Cloud infrastructure discovery
-- Dependency mapping
-- CI/CD pipelines with automated validation
+- RBAC and identity automation
+- Infrastructure dependency mapping
+- CI/CD validation and release workflows
 - Observability and SRE tooling
-- Python and Go based operational automation
+- Python and Go operational automation
 
-The goal is to show **how infrastructure is designed, deployed, secured, monitored, and operated**, not just which tools I have used.
+I would rather have a smaller number of repositories that I can explain clearly in an interview than a large collection of shallow demos.
 
 ---
 
@@ -166,6 +166,4 @@ The goal is to show **how infrastructure is designed, deployed, secured, monitor
 
 - GitHub: [@ShaikVasid](https://github.com/ShaikVasid)
 
----
-
-⭐ If you're interested in Cloud, DevOps, SRE, Kubernetes, Terraform, or infrastructure automation, feel free to explore the repositories above.
+⭐ Thanks for taking a look. The repository links above are the best place to see the actual implementation.
