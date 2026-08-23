@@ -1,105 +1,165 @@
-# 💫 About Me
+# 👋 Hi, I'm Vasid Shaik
 
-Hi, I'm Vasid 👋
+### Cloud / DevOps / SRE Engineer
 
-I'm a **Cloud / DevOps / SRE Engineer** with experience in cloud infrastructure, automation, CI/CD, containerization, infrastructure as code, and production reliability.
+I build and operate cloud infrastructure, deployment platforms, and automation that make engineering teams faster and production systems more reliable.
 
-I work with **AWS, Azure, and GCP**, along with technologies across cloud infrastructure, DevOps, CI/CD, Kubernetes, observability, automation, and software development.
+My experience spans **AWS, Azure, and GCP**, with a strong focus on **Infrastructure as Code, Kubernetes, CI/CD, cloud automation, IAM/security, observability, and SRE practices**.
 
-I enjoy building automated infrastructure, improving deployment pipelines, troubleshooting production environments, and creating reliable and scalable cloud solutions.
+I enjoy turning manual operational work into repeatable automation, improving deployment workflows, troubleshooting production systems, and designing infrastructure that is easier to operate at scale.
 
-### What I Work On
+---
 
-* ☁️ Cloud infrastructure and automation
-* 🏗️ Infrastructure as Code with Terraform
-* ☸️ Kubernetes and containerized workloads
-* 🔄 CI/CD and deployment automation
-* 🔐 IAM and security
-* 📊 Monitoring and observability
-* ⚙️ SRE and production reliability
-* 🤖 Automation with Python, Bash, and PowerShell
-* 🔍 Infrastructure and dependency discovery
+## 🚀 What I Do
 
-# 💻 Tech Stack
+- ☁️ Design and automate cloud infrastructure across AWS, Azure, and GCP
+- 🏗️ Build reusable **Terraform** infrastructure and modules
+- ☸️ Deploy and operate **Kubernetes** and containerized workloads
+- 🔄 Build and maintain **CI/CD pipelines** with Jenkins, GitLab CI/CD, and GitHub Actions
+- 🚀 Manage GitOps deployments with **Argo CD**
+- ⚙️ Automate operational workflows using **Python, Go, Bash, Ansible, and PowerShell**
+- 🔐 Implement cloud **IAM, access controls, and security automation**
+- 📊 Work with monitoring, observability, metrics, logging, and production reliability
+- 🔍 Build infrastructure discovery and dependency-mapping automation
+- 🛠️ Troubleshoot production issues and improve reliability through SRE practices
 
-### ☁️ Cloud
+---
 
-<p>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/></a>
-</p>
+## 🧩 Portfolio Projects
 
-### 🏗️ Infrastructure & DevOps
+The projects in this portfolio are focused on practical Cloud / DevOps / SRE problems rather than simple tutorials.
 
-<p>
-<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/></a>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/></a>
-</p>
+| Project | Focus | Technologies |
+|---|---|---|
+| **Terraform Infrastructure Modules** | Reusable cloud infrastructure and infrastructure-as-code patterns | Terraform, AWS, Azure |
+| **Cloud IAM Automation** | Automating identity, permissions, and access-management workflows | Python, Cloud IAM, Terraform |
+| **Infrastructure Dependency Mapping** | Discovering infrastructure relationships and dependencies | Python, Cloud APIs, Automation |
+| **Kubernetes Deployment Platform** | Container orchestration and application deployment patterns | Kubernetes, Docker, Helm, Argo CD |
+| **CI/CD Automation** | Automated build, test, security, and deployment workflows | GitHub Actions, Jenkins, GitLab CI/CD |
+| **Cloud Operations Automation** | Repeatable operational workflows and troubleshooting automation | Python, Go, Bash, PowerShell, Ansible |
 
-### 🔄 CI/CD & Version Control
+> More project implementations and architecture documentation will be added as the portfolio evolves.
 
-<p>
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/></a>
-<a href="https://gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/></a>
-<a href="https://bitbucket.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="45" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/></a>
-</p>
+---
 
-### 📊 Monitoring & Observability
+## ☁️ Cloud
 
 <p>
-<a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45"/></a>
-<a href="https://www.datadoghq.com/" target="_blank"><img src="https://cdn.simpleicons.org/datadog" alt="Datadog" width="45" height="45"/></a>
-<a href="https://www.elastic.co/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="45" height="45"/></a>
-<a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.simpleicons.org/splunk" alt="Splunk" width="45" height="45"/></a>
-<a href="https://opentelemetry.io/" target="_blank"><img src="https://cdn.simpleicons.org/opentelemetry" alt="OpenTelemetry" width="45" height="45"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/>
 </p>
 
-### 💻 Programming & Scripting
+**AWS · Azure · GCP**
+
+---
+
+## 🏗️ Infrastructure & DevOps
 
 <p>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/></a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="45" height="45"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
 </p>
 
-### 🗄️ Databases
+**Terraform · Kubernetes · Docker · Ansible · Jenkins · Argo CD**
+
+---
+
+## 🔄 CI/CD & GitOps
 
 <p>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
 </p>
 
-### 🧪 Development & Testing
+**GitHub Actions · Jenkins · GitLab CI/CD · Git · GitOps · Argo CD**
 
-<p>
-<a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45"/></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="45" height="45"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="45" height="45"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/></a>
-<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://cdn.simpleicons.org/sonarqube" alt="SonarQube" width="45" height="45"/></a>
-</p>
+---
 
-### 📋 Collaboration & Productivity
+## 📊 Observability & Reliability
 
-<p>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="45" height="45"/></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="Confluence" width="45" height="45"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products" target="_blank"><img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="Power BI" width="45" height="45"/></a>
-</p>
+**Prometheus · Grafana · Dynatrace · Elasticsearch · Splunk · OpenTelemetry**
 
-### 🖥️ Operating Systems & Tools
+I focus on the operational side of systems: monitoring, alerting, troubleshooting, incident response, service reliability, and reducing repetitive operational work through automation.
 
-<p>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a>
-<a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank"><img src="https://cdn.simpleicons.org/windowsterminal" alt="Windows Terminal" width="45" height="45"/></a>
-</p>
+---
+
+## 💻 Programming & Automation
+
+**Python · Go · Bash · PowerShell · Ansible**
+
+I use programming and scripting primarily for infrastructure automation, cloud operations, developer tooling, CI/CD workflows, and reliability engineering.
+
+---
+
+## 🔐 Security & Cloud Operations
+
+- IAM and least-privilege access patterns
+- Infrastructure security automation
+- Secrets and configuration management
+- Cloud resource discovery
+- Dependency and relationship mapping
+- Operational automation
+- Production troubleshooting
+
+---
+
+## 🛠️ Additional Technologies
+
+**Linux · Windows · MySQL · PostgreSQL · MongoDB · Jira · Confluence · Postman · SonarQube**
+
+---
+
+## 📈 Engineering Focus
+
+```text
+Cloud Infrastructure
+        ↓
+Infrastructure as Code
+        ↓
+CI/CD + GitOps
+        ↓
+Containers + Kubernetes
+        ↓
+Observability + Security
+        ↓
+SRE + Production Reliability
+        ↓
+Automation + Continuous Improvement
+```
+
+---
+
+## 🎯 What I'm Building Next
+
+I'm expanding this portfolio around production-style engineering scenarios:
+
+- Reusable Terraform modules
+- Multi-cloud infrastructure patterns
+- Kubernetes platform automation
+- GitOps deployment workflows
+- IAM and security automation
+- Cloud infrastructure discovery
+- Dependency mapping
+- CI/CD pipelines with automated validation
+- Observability and SRE tooling
+- Python and Go based operational automation
+
+The goal is to show **how infrastructure is designed, deployed, secured, monitored, and operated**, not just which tools I have used.
+
+---
+
+## 📫 Connect
+
+- GitHub: [@ShaikVasid](https://github.com/ShaikVasid)
+
+---
+
+⭐ If you're interested in Cloud, DevOps, SRE, Kubernetes, Terraform, or infrastructure automation, feel free to explore the repositories.
