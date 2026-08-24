@@ -1,164 +1,234 @@
-# 👋 Hi, I'm Vasid Shaik
+<div align="center">
 
-### Cloud / DevOps / SRE Engineer
+# Vasid Shaik
 
-I work on cloud infrastructure, automation, CI/CD, and the operational side of production systems.
+### Cloud & DevOps Engineer · SRE · Platform Engineering
 
-Most of my recent work has been around **Azure**, with experience across AWS and GCP as well. I spend a lot of time with Terraform, Kubernetes, CI/CD, identity and access, monitoring, and the scripting needed to keep infrastructure teams moving.
-
-I prefer keeping infrastructure code boring and repeatable. If something has to be done more than once, I usually look for a way to automate it.
-
----
-
-## 🚀 What I Work On
-
-- ☁️ Azure cloud infrastructure and platform operations
-- 🏗️ Terraform and Infrastructure as Code
-- ☸️ Kubernetes and containerized workloads
-- 🔄 CI/CD with GitHub Actions, Jenkins, and GitLab CI/CD
-- 🚀 GitOps and Argo CD
-- ⚙️ Python, Go, Bash, PowerShell, and Ansible automation
-- 🔐 Azure RBAC, Microsoft Entra ID, managed identities, and least privilege
-- 📊 Monitoring, observability, alerting, and production troubleshooting
-- 🔍 Infrastructure discovery and dependency mapping
-- 🛠️ SRE practices, incident response, and operational improvements
-
----
-
-## 🧩 Portfolio Projects
-
-I keep the larger hands-on projects here and use the smaller repositories as references and learning work.
-
-| Project | What it covers | Technologies | Repository |
-|---|---|---|---|
-| **Azure Terraform Infrastructure** | Azure networking, security, identity, environments, and reusable Terraform modules | Azure, Terraform, GitHub Actions | [View Repository](https://github.com/ShaikVasid/terraform-cloud-infrastructure) |
-| **Azure IAM / RBAC Automation** | RBAC assignment automation, least-privilege checks, scope validation, and audit reporting | Azure, Entra ID, Python | [View Repository](https://github.com/ShaikVasid/iam-automation) |
-| **Terraform Projects** | Terraform experiments and infrastructure examples | Terraform | [View Repository](https://github.com/ShaikVasid/terraform-new) |
-
-### ⭐ Where I would start
-
-If you are reviewing this profile for a Cloud / DevOps / SRE role, I would start with these two:
-
-1. [**Azure Terraform Infrastructure**](https://github.com/ShaikVasid/terraform-cloud-infrastructure)
-2. [**Azure IAM / RBAC Automation**](https://github.com/ShaikVasid/iam-automation)
-
-These are the projects I am actively using to show how I approach infrastructure, security, and automation. The Terraform repository is supporting infrastructure work and examples.
-
----
-
-## ☁️ Cloud
+**Building secure, automated and reliable cloud infrastructure across AWS, Azure and GCP.**
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="45" height="45"/>
+  <a href="https://github.com/ShaikVasid"><img src="https://img.shields.io/badge/GitHub-ShaikVasid-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=googlecloud" alt="GCP" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
 </p>
 
-**Azure · AWS · GCP**
+</div>
 
 ---
 
-## 🏗️ Infrastructure & DevOps
+## 👋 About Me
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
-</p>
+I'm a **Cloud / DevOps / SRE Engineer** focused on cloud infrastructure, platform automation, CI/CD, security and production reliability.
 
-**Terraform · Kubernetes · Docker · Ansible · Jenkins · Helm · Argo CD**
+My work spans **AWS, Azure and GCP**, with hands-on focus on **Terraform, Kubernetes, Docker, GitHub Actions, Jenkins, GitLab CI/CD, Argo CD, Python and cloud IAM**.
+
+I approach infrastructure with a simple principle: **make systems repeatable, observable and safe to change.** I automate repetitive operational work, build infrastructure as code, and design deployment and monitoring workflows with failure in mind.
 
 ---
 
-## 🔄 CI/CD & GitOps
+## ⭐ Featured Engineering Projects
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
-</p>
+These are the projects I would start with if you're reviewing my work for a **Cloud, DevOps, SRE or Platform Engineering** role.
 
-**GitHub Actions · Jenkins · GitLab CI/CD · Git · GitOps · Argo CD**
+| Project | Focus | Stack |
+|---|---|---|
+| **[Terraform Cloud Infrastructure](https://github.com/ShaikVasid/terraform-cloud-infrastructure)** | Reusable cloud infrastructure, networking, environments and automation | Azure · Terraform · GitHub Actions |
+| **[IAM Automation](https://github.com/ShaikVasid/iam-automation)** | RBAC automation, least privilege, scope validation and security reporting | Azure · Entra ID · Python |
+| **[Azure Kubernetes Platform](https://github.com/ShaikVasid/azure-kubernetes-platform)** | Kubernetes platform infrastructure and container orchestration | Azure · Kubernetes · Terraform |
 
----
-
-## 📊 Observability & Reliability
-
-**Prometheus · Grafana · Dynatrace · Elasticsearch · Splunk · OpenTelemetry**
-
-I use monitoring and observability to answer practical questions: what changed, what is failing, who is affected, and what should we fix so the same issue does not keep coming back.
+> 🚧 **In progress:** expanding this portfolio with production-style projects covering multi-cloud infrastructure, DevSecOps, observability and AI-assisted SRE automation.
 
 ---
 
-## 💻 Programming & Automation
+## 🏗️ What I Build
 
-**Python · Go · Bash · PowerShell · Ansible**
+### ☁️ Cloud Infrastructure
+AWS · Azure · GCP · Networking · IAM · Compute · Storage · Cloud Architecture
 
-Mostly used for infrastructure automation, cloud operations, CI/CD tooling, troubleshooting, and small utilities that remove repetitive work.
+### 🏗️ Infrastructure as Code
+Terraform · Reusable Modules · Environment Design · State Management · Infrastructure Automation
 
----
+### ☸️ Platform Engineering
+Kubernetes · Docker · Helm · Argo CD · GitOps · RBAC · Ingress · Workload Reliability
 
-## 🔐 Security & Cloud Operations
+### 🔄 CI/CD & DevSecOps
+GitHub Actions · Jenkins · GitLab CI/CD · Automated Testing · Security Scanning · Release Automation
 
-- Azure RBAC and least-privilege access
-- Microsoft Entra ID and managed identity
-- Infrastructure security automation
-- Secrets and configuration management
-- Cloud resource discovery
-- Dependency mapping
-- Operational automation
-- Production troubleshooting
+### 🔐 Cloud Security
+IAM · Azure RBAC · Microsoft Entra ID · Managed Identities · Least Privilege · Secrets Management
 
----
+### 📊 SRE & Observability
+Prometheus · Grafana · Dynatrace · OpenTelemetry · Elasticsearch · Splunk · Alerting · Incident Response
 
-## 🛠️ Additional Technologies
-
-**Linux · Windows · MySQL · PostgreSQL · MongoDB · Jira · Confluence · Postman · SonarQube**
+### ⚙️ Automation
+Python · Go · Bash · PowerShell · Ansible
 
 ---
 
-## 📈 How I Think About Infrastructure
+## 🧠 Engineering Approach
 
 ```text
 Understand the requirement
           ↓
-Build the smallest useful design
+Design the smallest useful solution
           ↓
-Automate the repeatable parts
+Define infrastructure as code
           ↓
-Validate before deployment
+Automate validation and deployment
           ↓
-Monitor what goes to production
+Secure the system by default
           ↓
-Fix the failure and improve the system
+Instrument what reaches production
+          ↓
+Measure reliability and failure modes
+          ↓
+Learn from incidents and improve
 ```
 
 ---
 
-## 🎯 Next Projects
+## 🔬 Current Portfolio Direction
 
-I am continuing to add projects around:
+I'm building hands-on projects around the areas I use and discuss most in Cloud / DevOps / SRE interviews:
 
-- Azure platform infrastructure
-- Kubernetes platform automation
-- GitOps deployment workflows
-- RBAC and identity automation
-- Infrastructure dependency mapping
-- CI/CD validation and release workflows
-- Observability and SRE tooling
-- Python and Go operational automation
+- Multi-cloud Terraform platforms
+- Production Kubernetes and GitOps
+- DevSecOps CI/CD pipelines
+- Cloud IAM and security automation
+- SRE observability, SLOs and incident response
+- Python / Go operational tooling
+- AI-assisted infrastructure and incident investigation
 
-I would rather have a smaller number of repositories that I can explain clearly in an interview than a large collection of shallow demos.
+The goal is **depth over volume**: fewer repositories, stronger engineering decisions, clear architecture, automated testing, security controls and documentation that I can explain end-to-end.
 
 ---
 
-## 📫 Connect
+## 🛠️ Technology Stack
 
-- GitHub: [@ShaikVasid](https://github.com/ShaikVasid)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-⭐ Thanks for taking a look. The repository links above are the best place to see the actual implementation.
+### Cloud
+
+- AWS
+- Microsoft Azure
+- Google Cloud
+- Azure Entra ID
+- Cloud IAM / RBAC
+
+</td>
+<td valign="top" width="33%">
+
+### Infrastructure
+
+- Terraform
+- Kubernetes
+- Docker
+- Helm
+- Ansible
+- Linux
+
+</td>
+<td valign="top" width="33%">
+
+### Delivery
+
+- GitHub Actions
+- Jenkins
+- GitLab CI/CD
+- Argo CD
+- GitOps
+- Release Automation
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Observability
+
+- Prometheus
+- Grafana
+- OpenTelemetry
+- Dynatrace
+- Elasticsearch
+- Splunk
+
+</td>
+<td valign="top">
+
+### Development
+
+- Python
+- Go
+- Bash
+- PowerShell
+- REST APIs
+
+</td>
+<td valign="top">
+
+### Security
+
+- IAM
+- RBAC
+- Least Privilege
+- Secrets Management
+- SAST / IaC Scanning
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Reliability Mindset
+
+I care about more than getting infrastructure deployed. I look at **how it behaves when things fail**.
+
+That means thinking about:
+
+- Availability and SLOs
+- Error budgets
+- Deployment safety
+- Health checks and graceful failure
+- Observability and actionable alerts
+- IAM boundaries and least privilege
+- Infrastructure drift
+- Incident response and root-cause analysis
+- Automating the repetitive work that creates operational risk
+
+---
+
+## 📚 Portfolio Roadmap
+
+```text
+[x] Cloud infrastructure with Terraform
+[x] IAM / RBAC automation
+[x] Azure Kubernetes platform
+[ ] Multi-cloud Terraform platform
+[ ] Production Kubernetes + GitOps platform
+[ ] DevSecOps CI/CD platform
+[ ] SRE observability platform
+[ ] AI DevOps incident assistant
+```
+
+---
+
+## 🤝 Connect
+
+If you're working on **cloud infrastructure, DevOps, SRE, platform engineering or cloud security**, feel free to connect.
+
+- **GitHub:** [@ShaikVasid](https://github.com/ShaikVasid)
+
+---
+
+<div align="center">
+
+**Cloud Infrastructure · Automation · Security · Reliability**
+
+</div>
